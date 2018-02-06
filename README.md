@@ -50,7 +50,7 @@ You're going to need:
 4. Initialize and start Slate. You can either do this locally, or with Vagrant:
 
 ```shell
-# either run this to run locally
+# either run this to run locally (previous install bundle --> gem install bundler)
 bundle install
 bundle exec middleman server
 
